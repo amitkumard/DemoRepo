@@ -1,1 +1,2 @@
 This is first line and demo for safe merge process
+This is second line and demo for conflict resolution, added from master branch
